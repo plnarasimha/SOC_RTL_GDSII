@@ -34,7 +34,10 @@ sudo make install
 
 sudo apt-get install iverilog
 
-
+![image alt]()
 # gtkwave
 
 sudo apt-get install gtkwave
+
+![image alt]()
+
