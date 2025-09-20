@@ -31,3 +31,10 @@ make
 sudo make install
 
 #iverilog
+
+sudo apt-get install iverilog
+
+
+# gtkwave
+
+sudo apt-get install gtkwave
