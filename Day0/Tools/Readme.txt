@@ -34,10 +34,10 @@ sudo make install
 
 sudo apt-get install iverilog
 
-![image alt]()
+![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/e057799538180aa885d72925c387865b57236bcf/Day0/Tools/aaa.png)
 # gtkwave
 
 sudo apt-get install gtkwave
 
-![image alt]()
+![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/e057799538180aa885d72925c387865b57236bcf/Day0/Tools/aab.png)
 
