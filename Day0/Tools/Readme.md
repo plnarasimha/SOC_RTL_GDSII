@@ -30,6 +30,8 @@ make
 
 sudo make install
 
+![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/57b6a01892ce9ebbeaa78871c36764f7a573a64e/Day0/Tools/yosys.png)
+
 #iverilog
 
 sudo apt-get install iverilog
