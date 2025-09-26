@@ -8,8 +8,24 @@ Design it's a verilog or a set of verilog codes which has the intended functiona
 # Validate
 with the help of Test bench is the setup to apply stimulus(test_vectors) to the design to check its functionality
 
+![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/4f4e35973e0f53c1eea16c8009ac29a6b95cc9f7/Day1/Theory/image/2.png)
+
 
 # How it works
 Based upon look for the changes on the input signal,then changes input the output is evaluated
 
 ![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/15c22742402c6d5fd374c491aeac6545d8569daa/Day1/Theory/image/1.png)
+
+# Synthesis
+Tool used for converting the RTL to Netlist
+![image alt]() 
+# RTL Design
+
+Behavioral represtation of the required specification
+# .lib
+
+collection of logical modules ( different flavours )
+
+# Validate
+
+![image alt]()
