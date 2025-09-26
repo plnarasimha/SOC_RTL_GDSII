@@ -18,7 +18,7 @@ Based upon look for the changes on the input signal,then changes input the outpu
 
 # Synthesis
 Tool used for converting the RTL to Netlist
-![image alt]() 
+![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/9ca5d1abda725adf410537c76cff92abb19fc5c5/Day1/Theory/image/3.png) 
 # RTL Design
 
 Behavioral represtation of the required specification
