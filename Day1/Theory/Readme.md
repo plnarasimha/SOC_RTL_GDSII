@@ -12,4 +12,4 @@ with the help of Test bench is the setup to apply stimulus(test_vectors) to the 
 # How it works
 Based upon look for the changes on the input signal,then changes input the output is evaluated
 
-![image alt]()
+![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/15c22742402c6d5fd374c491aeac6545d8569daa/Day1/Theory/image/1.png)
