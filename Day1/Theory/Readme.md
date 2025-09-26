@@ -30,3 +30,4 @@ collection of logical modules ( different flavours )
 
 ![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/31e34dca0a39e529855452e1c821c3a55cfb50b9/Day1/Theory/image/4.png)
 ![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/81b58db5807b8dce649f2b53e2c824206a66086e/Day1/Theory/image/5.png)
+![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/9b9f10b1be902062ce7f82ee3b95a06128ddff46/Day1/Theory/image/6.png)
