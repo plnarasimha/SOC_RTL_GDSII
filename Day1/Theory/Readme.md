@@ -28,4 +28,4 @@ collection of logical modules ( different flavours )
 
 # Validate
 
-![image alt]()
+![image alt](https://github.com/plnarasimha/SOC_RTL_GDSII/blob/31e34dca0a39e529855452e1c821c3a55cfb50b9/Day1/Theory/image/4.png)
